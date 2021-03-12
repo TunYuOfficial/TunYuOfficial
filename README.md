@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @TunYuOfficial
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+TunYuOfficil
 
-<!---
-TunYuOfficial/TunYuOfficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+哔哩哔哩:豚鱼牛肉面
+
+微博@_豚鱼牛肉面_
+
+酷安:豚鱼牛肉面
+
+总之在哪里都可以找得到我
